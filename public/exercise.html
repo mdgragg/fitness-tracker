@@ -12,14 +12,20 @@
 
 <body>
   <nav>
-    <a href="/">Fitness Tracker</a>
-    <a href="/stats">Dashboard</a>
+    <strong><a href="/">Fitness Tracker</a> | 
+    <a href="/stats">Dashboard</a></strong>
   </nav>
   <div class="wrapper">
+    <div class="top-half">
     <header>
-      <h1>Fitness Tracker</h1>
+      <div class="circle">
+        <img src="images/dumbbell.png" alt="dumbbell icon">
+        <h1>Fitness Tracker</h1>
+      </div>
     </header>
-    <div class="ui container exercise">
+  </div>
+  <div class="bottom-half"></div>
+    <div class="ui container exercise ">
       <div class="ui raised card m-auto">
         <h2>Add Your Exercise</h2>
         <form action="POST">
@@ -68,10 +74,10 @@
             </div>
           </div>
           <div class="buttons">
-            <button disabled class="huge ui blue button complete">
+            <button disabled class="huge ui button complete">
               Complete
             </button>
-            <button disabled class="huge ui positive button add-another">
+            <button disabled class="huge ui button add-another">
               Add Exercise
             </button>
           </div>

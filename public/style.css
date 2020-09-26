@@ -17,13 +17,72 @@ body {
 }
 
 nav {
-  background-color: #5793fd;
+  background-color: #202833;
   color: #ffffff;
   height: 80px;
   padding: 10px;
   line-height: 3;
   font-size: 1.2rem;
 }
+nav {
+  text-align: center;
+}
+nav a:hover {
+  color: #66fcf1;
+}
+
+
+
+.top-half {
+  background-color: #202833;
+  color: #ffffff;
+  height: 300px;
+  border-bottom: solid 10px #66fcf1;
+  z-index: 2;
+}
+.circle {
+  height: 200px;
+  width: 200px;
+  background-color: white;
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+  z-index: 99999;
+  background: #46a29f;
+  border: #46a29f solid 5px;  
+}
+.circle h1{
+  vertical-align: middle;
+  font-size: 30px;
+  margin-top: 0px;
+  color: white;
+}
+.circle img{
+  width: 100px;
+}
+
+.ui.container {
+  position: absolute;
+  top: 300px;
+  left: 0px;
+  right: 0px;
+  margin-top: -30px;
+
+}
+.prev-workout{
+  margin-top: 80px;
+}
+.exercise h2{
+  margin-top: 100px;
+}
+
+
+.bottom-half {
+  background-color: #46a29f;
+  min-height: 600px;
+  height: auto;
+}
+
 
 a,
 a:hover,
@@ -43,6 +102,7 @@ header {
 header h1 {
   transform: skewX(-2deg);
 }
+
 
 select {
   display: block;
