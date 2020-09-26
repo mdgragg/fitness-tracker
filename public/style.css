@@ -193,10 +193,6 @@ form::after {
   display: none !important;
 }
 
-.exercise .ui.card {
-  width: 400px;
-  max-width: 600px;
-}
 
 .exercise .buttons {
   margin-top: 20px;
