@@ -69,6 +69,20 @@ nav a:hover {
   margin-top: -30px;
 
 }
+
+.dashboard {
+  position: absolute;
+  top: 150px;
+  left: 0px;
+  right: 0px;
+  margin-top: -30px;
+  background: white;
+
+}
+.dashboard h1{
+  margin-top: 20px;
+}
+
 .prev-workout{
   margin-top: 80px;
 }
