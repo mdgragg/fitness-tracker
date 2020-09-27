@@ -1,7 +1,5 @@
 # fitness-tracker
 
-# Burger
-
 <img src="https://raw.githubusercontent.com/mdgragg/fitness-tracker/master/public/assets/img/ScreenShot.png" width="700" />
 
 ## Description
