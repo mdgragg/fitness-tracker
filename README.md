@@ -3,7 +3,8 @@
 <img src="https://raw.githubusercontent.com/mdgragg/fitness-tracker/master/public/assets/images/ScreenShot.png" width="700" />
 
 ## Description
-I
+In this application, the user will be able to keep track of different workouts. The user is able to: add exercises to a previous workout plan, add new exercises to a new workout plan, and view the combined weight of multiple exercises on the `stats` page. This app uses a MongoDB database and is deployed on Heroku.
+
 
 ## Table of Contents
 * [Installation](#installation)
@@ -11,6 +12,7 @@ I
 * [Contribution](#contribution)
 * [Tests](#tests)
 * [Questions](#questions)
+
 
 ## Installation
 ```
