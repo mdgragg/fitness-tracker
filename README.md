@@ -24,7 +24,7 @@ View [Deployed App](https://fitness-tracker-mdg.herokuapp.com/)
 
 Demo below shows how application works:
 
-![Demo](https://raw.githubusercontent.com/mdgragg/fitness-tracker/master/public/assets/images/Demo.gif?raw=true)
+![Demo](https://raw.githubusercontent.com/mdgragg/fitness-tracker/master/public/assets/images/Fitness%20Tracker.gif)
 
 
 
