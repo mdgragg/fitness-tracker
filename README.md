@@ -1,6 +1,6 @@
 # fitness-tracker
 
-<img src="https://raw.githubusercontent.com/mdgragg/fitness-tracker/master/public/assets/img/ScreenShot.png" width="700" />
+<img src="https://raw.githubusercontent.com/mdgragg/fitness-tracker/master/public/assets/images/ScreenShot.png" width="700" />
 
 ## Description
 I
@@ -24,7 +24,7 @@ View [Deployed App](https://fitness-tracker-mdg.herokuapp.com/)
 
 Demo below shows how application works:
 
-![Demo](https://github.com/mdgragg/burger/blob/master/public/assets/img/Demo.gif?raw=true)
+![Demo](https://raw.githubusercontent.com/mdgragg/fitness-tracker/master/public/assets/images/Demo.gif?raw=true)
 
 
 
