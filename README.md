@@ -10,7 +10,6 @@ In this application, the user will be able to keep track of different workouts. 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contribution](#contribution)
-* [Tests](#tests)
 * [Questions](#questions)
 
 
